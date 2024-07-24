@@ -24,3 +24,11 @@ Steps
   - Profit YTD
   - Revenue YTD
 - Created date and geography hierarchies for future granular analysis.
+- Created four report pages: executive summary, customer detail, product detail and stores map.
+- Built the customer detail page including:
+  - Headline cards
+  - Summary charts of the total orders by different categories
+  - Line graph of total customers against time
+  - A top 20 customers table
+  - Cards displaying the details of the top customer
+  - A data slicer to filter everything by year 
