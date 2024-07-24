@@ -1,6 +1,26 @@
 # Data Analytics Power BI Report
 -----------
 Steps
-Imported data from several sources including: a csv fiel, a zip folder of csv files which I merged into one table, Azure Blob Storage, an SQL database.
-Removed data either because it was unneeded, duplicated or sensitive.
-Applied consistent formatting to all tables.
+- Imported data from several sources including: a csv fiel, a zip folder of csv files which I merged into one table, Azure Blob Storage, an SQL database.
+- Removed data either because it was unneeded, duplicated or sensitive.
+- Applied consistent formatting to all tables.
+- Created a date table, adding coloumns for:
+  - Day of the week
+  - Months number
+  - Months name
+  - Quarter
+  - Year
+  - Start of year
+  - Start of quarter
+  - Start of month
+  - Start of week
+- Built a star schema with the necessary relationships for the model.
+- Created a measures table with measures for:
+  - Total orders
+  - Total revenue
+  - Total profit
+  - Total customers
+  - Total quantity (of items sold)
+  - Profit YTD
+  - Revenue YTD
+- Created date and geography hierarchies for future granular analysis.
