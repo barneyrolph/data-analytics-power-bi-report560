@@ -32,3 +32,9 @@ Steps
   - A top 20 customers table
   - Cards displaying the details of the top customer
   - A data slicer to filter everything by year 
+- Built the executive summary report page
+  - Headline cards
+  - Revenue trending line chart
+  - Donut charts for revenue by country and store type
+  - Bar chart of orders by catergory
+  - KPI visuals for revenue, profit and orders
