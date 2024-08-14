@@ -57,4 +57,20 @@ Here are the steps I followed to create a mock report using some sales data:
 ![Alt text](/screenshots/product_detail_page.png?raw=true "Product Detail Page")
 
 ![Alt text](/screenshots/slicer_toolbar.png?raw=true "Slicer Toolbar")
+
+
+- Created a stores map page
+  - Added a map visual showing stores and a country slicer
+  - Added a stores drillthrough page allowing for further visualisation of specif stores when selected
+  - Added a profit target gauge tooltip that displays when hovering over a store on the map
  
+  
+![Alt text](/screenshots/stores_map_page.png?raw=true "Stores Map Page")
+
+
+![Alt text](/screenshots/store_drillthrough.png?raw=true "Store Drillthrough")
+
+
+![Alt text](/screenshots/tooltip.png?raw=true "Tooltip")
+
+
