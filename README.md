@@ -61,7 +61,7 @@ Here are the steps I followed to create a mock report using some sales data:
 
 - Created a stores map page
   - Added a map visual showing stores and a country slicer
-  - Added a stores drillthrough page allowing for further visualisation of specif stores when selected
+  - Added a stores drillthrough page allowing for further visualisation of specific stores when selected
   - Added a profit target gauge tooltip that displays when hovering over a store on the map
  
   
