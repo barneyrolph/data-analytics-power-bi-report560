@@ -31,10 +31,27 @@ Steps
   - Line graph of total customers against time
   - A top 20 customers table
   - Cards displaying the details of the top customer
-  - A data slicer to filter everything by year 
+  - A data slicer to filter everything by year
+
+![Alt text](/screenshots/custumer_detail_page.png?raw=true "Customer Detail Page")
+ 
 - Built the executive summary report page
   - Headline cards
   - Revenue trending line chart
   - Donut charts for revenue by country and store type
   - Bar chart of orders by catergory
   - KPI visuals for revenue, profit and orders
+
+![Alt text](/screenshots/executive_summary_page.png?raw=true "Executive Summary Page")
+ 
+- Created a product detail page
+  - Gauge visuals for orders, revenue and profit
+  - Area chart for revenue by product category
+  - Top products table
+  - Scatter graph of orders by profitability
+  - Slicer toolbar
+ 
+![Alt text](/screenshots/product_detail_page.png?raw=true "Product Detail Page")
+
+![Alt text](/screenshots/slicer_toolbar.png?raw=true "Slicer Toolbar")
+ 
