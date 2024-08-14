@@ -4,10 +4,10 @@ This repo documents a data analysis PowerBI project I have worked on to practise
 
 Here are the steps I followed to create a mock report using some sales data:
 
-- Imported data from several sources including: a csv fiel, a zip folder of csv files which I merged into one table, Azure Blob Storage, an SQL database.
+- Imported data from several sources including: a csv file, a zip folder of csv files which I merged into one table, Azure Blob Storage, an SQL database.
 - Removed data either because it was unneeded, duplicated or sensitive.
 - Applied consistent formatting to all tables.
-- Created a date table, adding coloumns for:
+- Created a date table, adding columns for:
   - Day of the week
   - Months number
   - Months name
@@ -42,7 +42,7 @@ Here are the steps I followed to create a mock report using some sales data:
   - Headline cards
   - Revenue trending line chart
   - Donut charts for revenue by country and store type
-  - Bar chart of orders by catergory
+  - Bar chart of orders by category
   - KPI visuals for revenue, profit and orders
 
 ![Alt text](/screenshots/executive_summary_page.png?raw=true "Executive Summary Page")
