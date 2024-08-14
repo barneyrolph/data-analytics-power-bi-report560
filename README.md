@@ -33,7 +33,7 @@ Steps
   - Cards displaying the details of the top customer
   - A data slicer to filter everything by year
 
-![Alt text](/screenshots/custumer_detail_page.png?raw=true "Customer Detail Page")
+![Alt text](/screenshots/customer_detail_page.png?raw=true "Customer Detail Page")
  
 - Built the executive summary report page
   - Headline cards
