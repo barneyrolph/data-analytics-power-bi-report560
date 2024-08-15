@@ -74,3 +74,9 @@ Here are the steps I followed to create a mock report using some sales data:
 ![Alt text](/screenshots/tooltip.png?raw=true "Tooltip")
 
 
+- Fixed the cross filtering on the report pages
+- Added navigation buttons to switch between report pages
+
+
+![Alt text](/screenshots/navigation_toolbar.png?raw=true "Navigation Toolbar")
+
