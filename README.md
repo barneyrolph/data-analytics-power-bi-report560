@@ -2,7 +2,7 @@
 -----------
 This repo documents a data analysis PowerBI project I have worked on to practise my skills.
 
-Here are the steps I followed to create a mock report using some sales data:
+Here are the steps I followed to create a mock PowerBI report using some sales data:
 
 - Imported data from several sources including: a csv file, a zip folder of csv files which I merged into one table, Azure Blob Storage, an SQL database.
 - Removed data either because it was unneeded, duplicated or sensitive.
@@ -80,3 +80,4 @@ Here are the steps I followed to create a mock report using some sales data:
 
 ![Alt text](/screenshots/navigation_toolbar.png?raw=true "Navigation Toolbar")
 
+- Added some mock SQL queries to simulate working with clients without access to PowerBI
